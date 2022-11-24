@@ -1,0 +1,102 @@
+name: "Readme Update"
+author: "Azkadev"
+description: "Workflow for displaying recent in your readme"
+branding:
+  icon: "grid"
+  color: "red"
+
+inputs:
+  channel_id:
+    description: "The channel ID to use for the feed"
+    required: false
+    default: "en"
+  lang:
+    description: "The language you want your cards description to use"
+    required: false
+    default: "en"
+  comment_tag_name:
+    description: "The name of the comment tag to use for the cards"
+    required: false
+    default: "YOUTUBE-CARDS"
+  max_videos:
+    description: "The maximum number of videos to display"
+    required: false
+    default: "6"
+  base_url:
+    description: "The base URL to use for the cards"
+    required: false
+    default: "https://ytcards.demolab.com/"
+  youtube_api_key:
+    description: "The YouTube API key to use for additional features such a the video duration"
+    required: false
+    default: ""
+  card_width:
+    description: "The width of the SVG cards"
+    required: false
+    default: "250"
+  background_color:
+    description: "The background color of the SVG cards"
+    required: false
+    default: "#0d1117"
+  title_color:
+    description: "The color of the title text"
+    required: false
+    default: "#ffffff"
+  stats_color:
+    description: "The color of the stats text"
+    required: false
+    default: "#dedede"
+  theme_context_light:
+    description: "JSON theme for light mode (keys: background_color, title_color, stats_color)."
+    required: false
+    default: "{}"
+  theme_context_dark:
+    description: "JSON theme for dark mode (keys: background_color, title_color, stats_color)"
+    required: false
+    default: "{}"
+  show_duration:
+    description: "Whether to show the video duration. Requires `youtube_api_key` to be set."
+    required: false
+    default: "false"
+  author_name:
+    description: "The name of the committer"
+    required: false
+    default: "GitHub Actions"
+  author_email:
+    description: "The email address of the committer"
+    required: false
+    default: "41898282+github-actions[bot]@users.noreply.github.com"
+  commit_message:
+    description: "The commit message to use for the commit"
+    required: false
+    default: "docs(readme): Update YouTube cards"
+  readme_path:
+    description: "The path to the readme file"
+    required: false
+    default: "README.md"
+  output_only:
+    description: "Whether to return the section markdown as output instead of writing to the file"
+    required: false
+    default: "false"
+  output_type:
+    description: "The type of output to be rendered by the action ('markdown' or 'html')"
+    required: false
+    default: "markdown"
+
+outputs:
+  markdown:
+    description: "The section markdown as output"
+    value: ${{ steps.generate-readme-update.outputs.markdown }}
+
+runs:
+  using: "composite"
+  steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+        
+    # - name: Commit changes
+    #   uses: EndBug/add-and-commit@v9
+    #   with:
+    #     message: "${{ inputs.commit_message }}"
+    #     author_name: "${{ inputs.author_name }}"
+    #     author_email: "${{ inputs.author_email }}"
