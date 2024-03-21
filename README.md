@@ -1,164 +1,203 @@
-<h3 align="center">AZKADEV || GIBRAN ALAZKA</h3>
+PGgzIGFsaWduPSJjZW50ZXIiPkFaS0FERVYgfHwgR0lCUkFOIEFMQVpLQTwv
+aDM+CgohW10oaHR0cHM6Ly91c2VyLWltYWdlcy5naXRodWJ1c2VyY29udGVu
+dC5jb20vMzg4NDUyNzUvMTI4Nzc0Mjk2LTQwYTU1ODQzLTE4OTMtNDRlNi05
+MzZlLTVlNzFjN2NmNzJkZS5wbmcpCgotLS0KCjxoMyBhbGlnbj0iY2VudGVy
+Ij4KICBXZWxjb21lIHRvIEF6a2FkZXYncyBwcm9maWxlIQogIDxpbWcgc3Jj
+PSJodHRwczovL21lZGlhLmdpcGh5LmNvbS9tZWRpYS9odlJKQ0xGemNhc3JS
+NGlhN3ovZ2lwaHkuZ2lmIiB3aWR0aD0iMjgiPgo8L2gzPgoKPCEtLSBUeXBp
+bmcgU1ZHIGJ5IGF6a2FkZXYgLSBodHRwczovL2dpdGh1Yi5jb20vYXprYWRl
+di9yZWFkbWUtdHlwaW5nLXN2ZyAtLT4KPHAgYWxpZ249ImNlbnRlciI+Cjxh
+IGhyZWY9Imh0dHBzOi8vZ2l0LmlvL3R5cGluZy1zdmciPjxpbWcgc3JjPSJo
+dHRwczovL3JlYWRtZS10eXBpbmctc3ZnLmhlcm9rdWFwcC5jb20/Zm9udD1G
+aXJhK0NvZGUmZHVyYXRpb249MTAwMCZwYXVzZT0xMDAwJmNvbG9yPUY3MDAw
+MCZjZW50ZXI9dHJ1ZSZ2Q2VudGVyPXRydWUmbXVsdGlsaW5lPXRydWUmd2lk
+dGg9NTEwJmhlaWdodD04MCZsaW5lcz02K0J1bGFuK2NvZGluZytleHBlcmll
+bmNlO0Z1bGxTdGFjaytNb2JpbGUrYW5kK0Rlc2t0b3ArRGV2ZWxvcGVyK2Rh
+cnQrZGFuK2ZsdXR0ZXI7U2VsYWx1K2JlbGFqYXIraGFsK2JhcnUiIGFsdD0i
+VHlwaW5nIFNWRyIgLz48L2E+CjwvcD4KCjwhLS0gU29jaWFsIGljb25zIHNl
+Y3Rpb24gLS0+CjxwIGFsaWduPSJjZW50ZXIiPiAgIAogIDxhIGhyZWY9Imh0
+dHBzOi8veW91dHViZS5jb20vQGF6a2FkZXYiPgogwqAgIDxpbWcgYWx0PSJ5
+b3V0dWJlIiB0aXRsZT0iRm9sbG93IG1lIG9uIFlvdXR1YmUiIHNyYz0iaHR0
+cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Zb3V0dWJlLSUyM0U0NDA1Ri5z
+dmc/JnN0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz15b3V0dWJlJmxvZ29Db2xv
+cj13aGl0ZSIvPgogICAgPC9hPgogIDxhIGhyZWY9Imh0dHBzOi8veW91dHVi
+ZS5jb20vQGF6a2FkZXYiPgogwqAgIDxpbWcgYWx0PSJ5b3V0dWJlIiB0aXRs
+ZT0iRm9sbG93IG1lIG9uIFRlbGVncmFtIiBzcmM9Imh0dHBzOi8vaW1nLnNo
+aWVsZHMuaW8vYmFkZ2UvVGVsZWdyYW0tMkNBNUUwP3N0eWxlPWZvci10aGUt
+YmFkZ2UmbG9nbz10ZWxlZ3JhbSZsb2dvQ29sb3I9d2hpdGUpIi8+CiAgICA8
+L2E+IAogIDxhIGhyZWY9Imh0dHBzOi8veW91dHViZS5jb20vQGF6a2FkZXYi
+PgogwqAgIDxpbWcgYWx0PSJ5b3V0dWJlIiB0aXRsZT0iRm9sbG93IG1lIG9u
+IFdlYiIgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1dlYnNp
+dGUtJTIzRTQ0MDVGLnN2Zz8mc3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWZp
+cmVmb3gmbG9nb0NvbG9yPXdoaXRlIi8+CiAgICA8L2E+ICAKPC9wPgoKPHAg
+YWxpZ249ImNlbnRlciI+CiAgPGEgaHJlZj0iaHR0cHM6Ly93d3cueW91dHVi
+ZS5jb20vYy9VQzkyOC1GOEhlbmpaRDF6TmRNWTQydkE/c3ViX2NvbmZpcm1h
+dGlvbj0xIj4KICAgIDxpbWcgYWx0PSJ5b3V0dWJlIHN1YnNjcmliZXJzIiB0
+aXRsZT0iU3Vic2NyaWJlIHRvIG15IFlvdVR1YmUgY2hhbm5lbCIgc3JjPSJo
+dHRwczovL2N1c3RvbS1pY29uLWJhZGdlcy5kZW1vbGFiLmNvbS95b3V0dWJl
+L2NoYW5uZWwvc3Vic2NyaWJlcnMvVUM5MjgtRjhIZW5qWkQxek5kTVk0MnZB
+P2NvbG9yPSUyM0UwNUQ0NCZsYWJlbD1TVUJTQ1JJQkUmbG9nbz12aWRlbyZs
+b2dvQ29sb3I9d2hpdGUmc3R5bGU9Zm9yLXRoZS1iYWRnZSZsYWJlbENvbG9y
+PUNFNDYzMCIvPjwvYT4KICA8YSBocmVmPSJodHRwczovL3d3dy55b3V0dWJl
+LmNvbS9AYXprYWRldiI+CiAgICA8aW1nIGFsdD0ieW91dHViZSB2aWV3cyIg
+dGl0bGU9IllvdVR1YmUgdmlld3MiIHNyYz0iaHR0cHM6Ly9jdXN0b20taWNv
+bi1iYWRnZXMuZGVtb2xhYi5jb20veW91dHViZS9jaGFubmVsL3ZpZXdzL1VD
+OTI4LUY4SGVualpEMXpOZE1ZNDJ2QT9jb2xvcj0lMjNFMUFEMEUmbG9nbz12
+aWRlbyZsb2dvQ29sb3I9d2hpdGUmc3R5bGU9Zm9yLXRoZS1iYWRnZSZsYWJl
+bENvbG9yPUM3OTYwMCIvPjwvYT4gCiAgPGEgaHJlZj0iaHR0cHM6Ly9naXRo
+dWIuY29tL2F6a2FkZXY/dGFiPXJlcG9zaXRvcmllcyZzb3J0PXN0YXJnYXpl
+cnMiPgogICAgPGltZyBhbHQ9InRvdGFsIHN0YXJzIiB0aXRsZT0iVG90YWwg
+c3RhcnMgb24gR2l0SHViIiBzcmM9Imh0dHBzOi8vY3VzdG9tLWljb24tYmFk
+Z2VzLmRlbW9sYWIuY29tL2dpdGh1Yi9zdGFycy9hemthZGV2P2NvbG9yPTU1
+OTYwYyZzdHlsZT1mb3ItdGhlLWJhZGdlJmxhYmVsQ29sb3I9NDg4MjA3Jmxv
+Z289c3RhciIvPjwvYT4KICA8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20v
+QXprYWRldj90YWI9Zm9sbG93ZXJzIj4KICAgIDxpbWcgYWx0PSJmb2xsb3dl
+cnMiIHRpdGxlPSJGb2xsb3cgbWUgb24gR2l0aHViIiBzcmM9Imh0dHBzOi8v
+Y3VzdG9tLWljb24tYmFkZ2VzLmRlbW9sYWIuY29tL2dpdGh1Yi9mb2xsb3dl
+cnMvQXprYWRldj9jb2xvcj0yMzZhZDMmbGFiZWxDb2xvcj0xMTU1YmEmc3R5
+bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXBlcnNvbi1hZGQmbGFiZWw9Rm9sbG93
+JmxvZ29Db2xvcj13aGl0ZSIvPjwvYT4KPC9wPgoKWzxpbWcgYWxpZ249InJp
+Z2h0IiB3aWR0aD0iNTAlIiBzcmM9Imh0dHBzOi8vYmFkLWFwcGxlLWdpdGh1
+Yi1yZWFkbWUudmVyY2VsLmFwcC9hcGk/c2hvd19iZz0xJnVzZXJuYW1lPWF6
+a2FkZXYiPl0oaHR0cHM6Ly9tZXRyaWNzLmxlY29xLmlvL291dWFuP3RlbXBs
+YXRlPWNsYXNzaWMpCgpJJ20gR2licmFuIEFsYXprYS4KCi0gICA6aGFtbWVy
+X2FuZF9waWNrOiBEYXJ0Ci0gICA6cGVuY2lsMjogVWJ1bnR1Ci0gICA6c2Vl
+ZGxpbmc6IFRha2luZyBjb3Vyc2VzICYgZG9pbmcgYXNzaWdubWVudHMgYXQg
+VEhVCi0gICA6bWFuOiBQcm9ub3VuczogaGUvaGltCgotLS0KCjxwIGFsaWdu
+PSdjZW50ZXInPgogIPCfkrsgTXkgd29ya3NwYWNlPGJyLz48YnIvPgogIDxp
+bWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL01zaS0lMjMw
+MDAwMDAuc3ZnPyZzdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bXNpJmxvZ29D
+b2xvcj13aGl0ZSIvPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlv
+L2JhZGdlL0xpbnV4JTIwVWJ1bnR1LSUyMzAwNzhENi5zdmc/JnN0eWxlPWZv
+ci10aGUtYmFkZ2UmbG9nbz11YnVudHUmbG9nb0NvbG9yPXdoaXRlIi8+CiAg
+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvYW1kLXJ5
+emVuLS01NTAwdS0lMjMwMDcxQzUuc3ZnPyZzdHlsZT1mb3ItdGhlLWJhZGdl
+JmxvZ289YW1kJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8aW1nIHNyYz0iaHR0
+cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9TU0QtMVRCLSUyMzAwNzFDNS5z
+dmc/JnN0eWxlPWZvci10aGUtYmFkZ2UmbG9nb0NvbG9yPXdoaXRlIiAvPjxp
+bWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1JBTS04R0It
+JTIzMDA3MUM1LnN2Zz8mc3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXJtJmxv
+Z29Db2xvcj13aGl0ZSIgLz4KPC9wPgoKPHAgYWxpZ249J2NlbnRlcic+CiBN
+eSBUb29scyBhbmQgU2tpbGxzIDxici8+CgohW0RhcnRdKGh0dHBzOi8vaW1n
+LnNoaWVsZHMuaW8vYmFkZ2UvZGFydC0lMjMwMTc1QzIuc3ZnP3N0eWxlPWZv
+ci10aGUtYmFkZ2UmbG9nbz1kYXJ0JmxvZ29Db2xvcj13aGl0ZSkKIVtGbHV0
+dGVyXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0ZsdXR0ZXItJTIz
+MDI1NjlCLnN2Zz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Rmx1dHRlciZs
+b2dvQ29sb3I9d2hpdGUpCiFbR2l0XShodHRwczovL2ltZy5zaGllbGRzLmlv
+L2JhZGdlL0dpdC1GMDUwMzI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdp
+dCZsb2dvQ29sb3I9d2hpdGUpCiFbTm8tU3FsLUpzb25dKGh0dHBzOi8vaW1n
+LnNoaWVsZHMuaW8vYmFkZ2UvSnNvbi1DQjM4Mzc/c3R5bGU9Zm9yLXRoZS1i
+YWRnZSZsb2dvPWpzb24mbG9nb0NvbG9yPXdoaXRlKQohW1ppZ10oaHR0cHM6
+Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9aaWctQ0IzODM3P3N0eWxlPWZvci10
+aGUtYmFkZ2UmbG9nbz16aWcmbG9nb0NvbG9yPWJsYWNrKSAKPC9wPgo8YnI+
+CgpbPGltZyBhbGlnbj0ibGVmdCIgd2lkdGg9IjUwJSIgc3JjPSJodHRwczov
+L2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGkvdG9wLWxhbmdz
+Lz91c2VybmFtZT1hemthZGV2JmxhbmdzX2NvdW50PTgmbGF5b3V0PWNvbXBh
+Y3QmdGhlbWU9cmVhY3QmaGlkZV9ib3JkZXI9dHJ1ZSZiZ19jb2xvcj0xRjIy
+MkUmdGl0bGVfY29sb3I9Rjg1RDdGJmljb25fY29sb3I9RjhEODY2JmhpZGU9
+SnVweXRlciUyME5vdGVib29rIj5dKGh0dHBzOi8vbWV0cmljcy5sZWNvcS5p
+by9vdXVhbj90ZW1wbGF0ZT1jbGFzc2ljKQoKLS0tCgpJJ20gR2licmFuIEFs
+YXprYSwgYSBmcmVzaG1hbiBhdCBUSFUuCgotICAgOmhhbW1lcl9hbmRfcGlj
+azogRGFydAotICAgOnBlbmNpbDI6IFVidW50dQotICAgOnNlZWRsaW5nOiBU
+YWtpbmcgY291cnNlcyAmIGRvaW5nIGFzc2lnbm1lbnRzIGF0IFRIVQotICAg
+Om1hbjogUHJvbm91bnM6IGhlL2hpbQoKCi0tLQogCjwhLS0gCiFbU3Vic2Ny
+aWJlcl0oaHR0cHM6Ly9jdXN0b20taWNvbi1iYWRnZXMuaGVyb2t1YXBwLmNv
+bS95b3V0dWJlL2NoYW5uZWwvc3Vic2NyaWJlcnMvVUNqOXN0TkdWdlFKc3BZ
+TXA4LWxHX25nP2NvbG9yPSUyM0UwNUQ0NCZsYWJlbD1TVUJTQ1JJQkUmbG9n
+bz12aWRlbyZsb2dvQ29sb3I9d2hpdGUmc3R5bGU9Zm9yLXRoZS1iYWRnZSZs
+YWJlbENvbG9yPUNFNDYzMCkKIVtdKGh0dHBzOi8vY3VzdG9tLWljb24tYmFk
+Z2VzLmhlcm9rdWFwcC5jb20veW91dHViZS9jaGFubmVsL3ZpZXdzL1VDajlz
+dE5HVnZRSnNwWU1wOC1sR19uZz9jb2xvcj0lMjNFMUFEMEUmbG9nbz12aWRl
+byZsb2dvQ29sb3I9d2hpdGUmc3R5bGU9Zm9yLXRoZS1iYWRnZSZsYWJlbENv
+bG9yPUM3OTYwMCkKIVtTdGFyc10oaHR0cHM6Ly9jdXN0b20taWNvbi1iYWRn
+ZXMuaGVyb2t1YXBwLmNvbS9iYWRnZS9keW5hbWljL2pzb24/bG9nbz1zdGFy
+JmNvbG9yPTU1OTYwYyZsYWJlbENvbG9yPTQ4ODIwNyZsYWJlbD1TdGFycyZz
+dHlsZT1mb3ItdGhlLWJhZGdlJnF1ZXJ5PSUyNC5zdGFycyZ1cmw9aHR0cHM6
+Ly9hcGkuZ2l0aHViLXN0YXItY291bnRlci53b3JrZXJzLmRldi91c2VyL2F6
+a2FkZXYpCiFbXShodHRwczovL2N1c3RvbS1pY29uLWJhZGdlcy5oZXJva3Vh
+cHAuY29tL2dpdGh1Yi9mb2xsb3dlcnMvYXprYWRldj9jb2xvcj0yMzZhZDMm
+bGFiZWxDb2xvcj0xMTU1YmEmc3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXBl
+cnNvbi1hZGQmbGFiZWw9Rm9sbG93JmxvZ29Db2xvcj13aGl0ZSkKWyFbQ3Vz
+dG9tIGJhZGdlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL2luc3Rh
+Z3JhbS0lMjNFNDQwNUYuc3ZnPyZzdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289
+aW5zdGFncmFtJmxvZ29Db2xvcj13aGl0ZSldKGh0dHBzOi8vd3d3Lmluc3Rh
+Z3JhbS5jb20vYXprYWRldi8pClshW0N1c3RvbSBiYWRnZV0oaHR0cHM6Ly9p
+bWcuc2hpZWxkcy5pby9iYWRnZS90d2l0dGVyLSUyMzFEQTFGMi5zdmc/JnN0
+eWxlPWZvci10aGUtYmFkZ2UmbG9nbz10d2l0dGVyJmxvZ29Db2xvcj13aGl0
+ZSldKGh0dHBzOi8vdHdpdHRlci5jb20vYXprYWRldi8pClshW0N1c3RvbSBi
+YWRnZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9UZWxlZ3JhbS0y
+Q0E1RTA/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPXRlbGVncmFtJmxvZ29D
+b2xvcj13aGl0ZSldKGh0dHBzOi8vdC5tZS9hemthZGV2KQpbIVtDdXN0b20g
+YmFkZ2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvV2Vic2l0ZS1G
+RjcxMzk/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPUZpcmVmb3gtQnJvd3Nl
+ciZsb2dvQ29sb3I9d2hpdGUpXShodHRwczovL2F6a2FkZXYuY29tLykKWyFb
+Q3VzdG9tIGJhZGdlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0dp
+dEh1Yi0xMDAwMDA/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdpdGh1YiZs
+b2dvQ29sb3I9d2hpdGUpXShodHRwczovL2dpdGh1Yi5jb20vYXprYWRldikK
+WyFbQ3VzdG9tIGJhZGdlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdl
+L2Rldi50by0xMDAwMDA/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWRldi50
+byZsb2dvQ29sb3I9d2hpdGUpXShodHRwczovL2Rldi50by9hemthZGV2KQpb
+IVtDdXN0b20gYmFkZ2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2Uv
+ZGV2ZG9qby0xMDAwMDA/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWRldmRv
+am8mbG9nb0NvbG9yPXdoaXRlKV0oaHR0cHM6Ly9kZXZkb2pvLmNvbS9hemth
+ZGV2KSAtLT4KLS0tCgo8aDMgYWxpZ249ImNlbnRlciI+CiAgV2FudCBoaXJl
+IG1lPwogIDxpbWcgc3JjPSJodHRwczovL21lZGlhLmdpcGh5LmNvbS9tZWRp
+YS9odlJKQ0xGemNhc3JSNGlhN3ovZ2lwaHkuZ2lmIiB3aWR0aD0iMjgiPgo8
+L2gzPgoKPCEtLSBIZXJlIGFyZSBzb21lIG9mIG15IGRlbW8gcHJvamVjdHMg
+dG8gY29udmluY2UgeW91CgotIEFwcGxpY2F0aW9uCgogIE1vYmlsZS1BcHBs
+aWNhdGlvbiBidWlsZCB3aXRoIGJhY2tlbmQgbm9kZSBqcyBhbmQgZmx1dHRl
+ciBbbW9iaWxlLWRlbW8tYXBwLWFuZHJvaWRdKGh0dHBzOi8vZ2l0aHViLmNv
+bS9hemthZGV2KSBbZGVza3RvcC1kZW1vLWFwcC1saW51eF0oaHR0cHM6Ly9n
+aXRodWIuY29tL2Fzc2V0cy9kZW1vKQoKLSBCb3QKCiAgbm8gZGVtbyBmb3Ig
+Ym90IGJ1dCBpIGNhbiBtYWtlLAogIGNoYXRib3QsIGJhbmsgYm90LCBldGMs
+IG9uIHNvY2lhbCBtZWRpYSBzdWNoIGFzIHRlbGVncmFtLCB3aGF0c2FwcCwg
+aW5zdGFncmFtCgotIEJhY2tlbmQKCiAgaGVyZSBpcyBhIGRlbW8gYW5kIG9w
+ZW4gc291cmNlIGJhY2tlbmQgdXNpbmcgbm9kZSBqcywgdGhlIGRlbW8gaXMg
+bm90IGZ1bGwgdGhlcmUgaXMgY3J1ZCBmb3IgZmVhciBvZiBiZWluZyBtaXN1
+c2VkLCBbcmVwb10oaHR0cHM6Ly9naXRodWIuY29tL2F6a2FkZXYvZnJlZS1h
+cGktZGV2KSAtLT4KCiMjIFRocm9weQoKWyFbdHJvcGh5XShodHRwczovL2dp
+dGh1Yi1wcm9maWxlLXRyb3BoeS52ZXJjZWwuYXBwLz91c2VybmFtZT1hemth
+ZGV2KV0oaHR0cHM6Ly9naXRodWIuY29tL3J5by1tYS9naXRodWItcHJvZmls
+ZS10cm9waHkpCjwhLS0gCiMjIEZ1bmRpbmcKClN1cHBvcnQgc2F5YSB1bnR1
+ayBtZW5nZW1iYW5na2FuIHByb2plY3Qgc2F5YSB5YW5nIGRpIGdpdGh1YiAv
+IG1lbnllbWFuZ2F0aW4gc2F5YSBkYWxhbSBrb2RpbmcuCi0gTWFpbgpbIVtQ
+YXlwYWwtQmFkZ2VdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvcGF5
+cGFsLSUyMzAwNDU3Qy5zdmc/JnN0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1w
+YXlwYWwmbG9nb0NvbG9yPXdoaXRlKV0oaHR0cHM6Ly93d3cucGF5cGFsLmNv
+bS9wYXlwYWxtZS9hemthZGV2KQpbU2F3ZXJpYV0oaHR0cHM6Ly9zYXdlcmlh
+LmNvL2F6a2FkZXYpCi0gQ3lycHRvIENvaW4KICAhW10oaHR0cHM6Ly9pbWcu
+c2hpZWxkcy5pby9iYWRnZS9CaXRjb2luLTAwMDAwMD9zdHlsZT1mb3ItdGhl
+LWJhZGdlJmxvZ289Yml0Y29pbiZsb2dvQ29sb3I9d2hpdGUpIGBgYHNhc2Fz
+YGBgCiAgIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvRXRoZXJl
+dW0tM0MzQzNEP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1FdGhlcmV1bSZs
+b2dvQ29sb3I9d2hpdGUpCiAgIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8v
+YmFkZ2UvZG9nZWNvaW4tQzJBNjMzP3N0eWxlPWZvci10aGUtYmFkZ2UmbG9n
+bz1kb2dlY29pbiZsb2dvQ29sb3I9d2hpdGUpCjxicj4gLS0+CgoKLS0tCiMj
+IPCflKUgU3RyZWFrIHN0YXRzCgo8IS0tIEdpdEh1YiBSZWFkbWUgU3RyZWFr
+IFN0YXRzIC0gaHR0cHM6Ly9naXRodWIuY29tL2F6a2FkZXYvZ2l0aHViLXJl
+YWRtZS1zdHJlYWstc3RhdHMgLS0+CjxwIGFsaWduPSJjZW50ZXIiPgogIDxh
+IGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9hemthZGV2L2dpdGh1Yi1yZWFk
+bWUtc3RyZWFrLXN0YXRzIj4KICAgIDxpbWcgdGl0bGU9IvCflKUgR2V0IHN0
+cmVhayBzdGF0cyBmb3IgeW91ciBwcm9maWxlIGF0IGdpdC5pby9zdHJlYWst
+c3RhdHMiIGFsdD0iYXprYWRldidzIHN0cmVhayIgc3JjPSJodHRwczovL2dp
+dGh1Yi1yZWFkbWUtc3RyZWFrLXN0YXRzLmhlcm9rdWFwcC5jb20vP3VzZXI9
+YXprYWRldiZ0aGVtZT1tb25va2FpLW1ldGFsbGlhbiZoaWRlX2JvcmRlcj10
+cnVlIi8+CiAgPC9hPgogIDxwIGFsaWduPSJjZW50ZXIiPvCflKUgR2V0IHN0
+cmVhayBzdGF0cyBmb3IgeW91ciBwcm9maWxlIGF0IDxhIGhyZWY9Imh0dHBz
+Oi8vZ2l0LmlvL3N0cmVhay1zdGF0cyI+Z2l0LmlvL3N0cmVhay1zdGF0czwv
+YT48L3A+CjwvcD4KCgo8YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vYXNo
+dXRvc2gwMDcxMC9naXRodWItcmVhZG1lLWFjdGl2aXR5LWdyYXBoIj48aW1n
+IGFsdD0iYXprYWRldidzIEFjdGl2aXR5IEdyYXBoIiBzcmM9Imh0dHBzOi8v
+YWN0aXZpdHktZ3JhcGguaGVyb2t1YXBwLmNvbS9ncmFwaD91c2VybmFtZT1h
+emthZGV2JmJnX2NvbG9yPTFGMjIyRSZjb2xvcj1GOEQ4NjYmbGluZT1GODVE
+N0YmcG9pbnQ9RkZGRkZGJmhpZGVfYm9yZGVyPXRydWUiIC8+PC9hPgoKCjxk
+ZXRhaWxzPiAKICA8c3VtbWFyeT48aDI+8J+TuiBMYXRlc3QgWW91VHViZSBW
+aWRlb3M8L2gyPjwvc3VtbWFyeT4KIAoKICA8IS0tIHByZXR0aWVyLWlnbm9y
+ZS1zdGFydCAtLT4KICA8IS0tIEJlZ2luIFlvdXR1YmUtQ2FyZHMgLS0+Cgph
+b3Nrb3drZm9rd29ma293a2Zvd2tmb3drb2YKCjwhLS0gRU5EIFlPVVRVQkUt
+Q0FSRFMgLS0+CiAgPCEtLSBwcmV0dGllci1pZ25vcmUtZW5kIC0tPgogCiAg
+IAogIAo8L2RldGFpbHM+
 
-![](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
-
----
-
-<h3 align="center">
-  Welcome to Azkadev's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by azkadev - https://github.com/azkadev/readme-typing-svg -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=510&height=80&lines=6+Bulan+coding+experience;FullStack+Mobile+and+Desktop+Developer+dart+dan+flutter;Selalu+belajar+hal+baru" alt="Typing SVG" /></a>
-</p>
-
-<!-- Social icons section -->
-<p align="center">   
-  <a href="https://youtube.com/@azkadev">
-    <img alt="youtube" title="Follow me on Youtube" src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
-    </a>
-  <a href="https://youtube.com/@azkadev">
-    <img alt="youtube" title="Follow me on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)"/>
-    </a> 
-  <a href="https://youtube.com/@azkadev">
-    <img alt="youtube" title="Follow me on Web" src="https://img.shields.io/badge/Website-%23E4405F.svg?&style=for-the-badge&logo=firefox&logoColor=white"/>
-    </a>  
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/c/UC928-F8HenjZD1zNdMY42vA?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC928-F8HenjZD1zNdMY42vA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-  <a href="https://www.youtube.com/@azkadev">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC928-F8HenjZD1zNdMY42vA?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/azkadev?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/azkadev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/Azkadev?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Azkadev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-[<img align="right" width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=azkadev">](https://metrics.lecoq.io/ouuan?template=classic)
-
-I'm Gibran Alazka.
-
--   :hammer_and_pick: Dart
--   :pencil2: Ubuntu
--   :seedling: Taking courses & doing assignments at THU
--   :man: Pronouns: he/him
-
----
-
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Msi-%23000000.svg?&style=for-the-badge&logo=msi&logoColor=white"/><img src="https://img.shields.io/badge/Linux%20Ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/amd-ryzen--5500u-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSD-1TB-%230071C5.svg?&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logo=rm&logoColor=white" />
-</p>
-
-<p align='center'>
- My Tools and Skills <br/>
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![No-Sql-Json](https://img.shields.io/badge/Json-CB3837?style=for-the-badge&logo=json&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-CB3837?style=for-the-badge&logo=zig&logoColor=black) 
-</p>
-<br>
-
-[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkadev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook">](https://metrics.lecoq.io/ouuan?template=classic)
-
----
-
-I'm Gibran Alazka, a freshman at THU.
-
--   :hammer_and_pick: Dart
--   :pencil2: Ubuntu
--   :seedling: Taking courses & doing assignments at THU
--   :man: Pronouns: he/him
-
-
----
- 
-<!-- 
-![Subscriber](https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCj9stNGVvQJspYMp8-lG_ng?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630)
-![](https://custom-icon-badges.herokuapp.com/youtube/channel/views/UCj9stNGVvQJspYMp8-lG_ng?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600)
-![Stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/azkadev)
-![](https://custom-icon-badges.herokuapp.com/github/followers/azkadev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)
-[![Custom badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azkadev/)
-[![Custom badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azkadev/)
-[![Custom badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azkadev)
-[![Custom badge](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://azkadev.com/)
-[![Custom badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azkadev)
-[![Custom badge](https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/azkadev)
-[![Custom badge](https://img.shields.io/badge/devdojo-100000?style=for-the-badge&logo=devdojo&logoColor=white)](https://devdojo.com/azkadev) -->
----
-
-<h3 align="center">
-  Want hire me?
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Here are some of my demo projects to convince you
-
-- Application
-
-  Mobile-Application build with backend node js and flutter [mobile-demo-app-android](https://github.com/azkadev) [desktop-demo-app-linux](https://github.com/assets/demo)
-
-- Bot
-
-  no demo for bot but i can make,
-  chatbot, bank bot, etc, on social media such as telegram, whatsapp, instagram
-
-- Backend
-
-  here is a demo and open source backend using node js, the demo is not full there is crud for fear of being misused, [repo](https://github.com/azkadev/free-api-dev) -->
-
-## Thropy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=azkadev)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- 
-## Funding
-
-Support saya untuk mengembangkan project saya yang di github / menyemangatin saya dalam koding.
-- Main
-[![Paypal-Badge](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/azkadev)
-[Saweria](https://saweria.co/azkadev)
-- Cyrpto Coin
-  ![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) ```sasas```
-  ![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-  ![](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
-<br> -->
-
-
----
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/azkadev/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/azkadev/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="azkadev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=azkadev&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azkadev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azkadev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-<details> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
- 
-
-  <!-- prettier-ignore-start -->
-  <!-- Begin Youtube-Cards -->
-
-aoskowkfokwofkowkfowkfowkof
-
-<!-- END YOUTUBE-CARDS -->
-  <!-- prettier-ignore-end -->
- 
-   
-  
-</details>
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
